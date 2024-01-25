@@ -32,4 +32,4 @@ Estudante de Licenciatura em Ciências da Computação, almejando sua primeira v
 # Projetos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wendellmat&repo=germart&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WendellMat/GerMart)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wendellmat&repo=jokenpo_yugioh&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WendellMat/jokenpo_yugioh)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wendellmat&repo=piano_simulator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WendellMat/piano_simulator)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wendellmat&repo=animal_piano_simulator&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WendellMat/animal_piano_simulator)
